@@ -1,7 +1,7 @@
 I am Deepa kalled, people call me Deepa, a  computer science student from KLE Society's P C JABIN College. I am still a fresher who is interested in coding and to shape my coding skills.
 
-[![Linkedin Badge](https://img.shields.io/badge/deepa-s-k-a138a5272?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepa-s-k-a138a5272/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-deepakalled@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepakalled@gmail.com)](mailto:kanna6501@gmail.com)
+
+
 
 ## ⚡ Technologies
 
